@@ -27,7 +27,7 @@ _Create a release based workflow that is built on the foundations of the GitHub 
 
 _Welcome to "Release-based workflow" :sparkle:_
 
-### The GitHub flow ?????
+### The GitHub flow 
 
 The [GitHub flow](https://guides.github.com/introduction/flow/) is a lightweight, branch-based workflow for projects with regular deployments.
 
